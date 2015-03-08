@@ -27,4 +27,4 @@ function rng() {
 
 
 
-console.log(rng());
+drawGrid(ctx, canvas.width, canvas.height, 10, 15);
