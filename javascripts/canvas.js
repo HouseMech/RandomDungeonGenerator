@@ -28,3 +28,5 @@ function rng() {
 
 
 drawGrid(ctx, canvas.width, canvas.height, 10, 15);
+drawCircle(ctx, "blue");
+drawSquare(ctx, "purple");
